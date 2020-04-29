@@ -1,0 +1,47 @@
+/* App.css */
+@import "./variables.scss";
+
+/* --- Portrait Mobile ---*/
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* --- Landscape Mobile ---*/
+@media (min-width: 576px) {
+  
+}
+
+/* --- Portrait Tablet ---*/
+@media (min-width: 768px) {
+
+}
+
+/* --- Landscape Tablet ---*/
+@media (min-width: 992px) {
+  
+}
+
+/* --- Small Laptop ---*/
+@media (min-width: 1200px) {
+  
+}
+
+/* --- Large Laptop ---*/
+@media (min-width: 1440px) {
+  
+}
+
+/* --- Desktop ---*/
+@media (min-width: 2100px) {
+  
+}
